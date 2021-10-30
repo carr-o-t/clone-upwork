@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mirza:wght@500&display=swap');
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+/* body {
+    position: relative;
+    overflow: hidden;
+} */
+#tab_list::-webkit-scrollbar {
+    display: none;
+}
+
